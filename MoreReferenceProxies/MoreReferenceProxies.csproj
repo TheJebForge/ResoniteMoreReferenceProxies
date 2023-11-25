@@ -3,7 +3,7 @@
     <ProjectGuid>{0322B2EF-7452-479D-BAE2-FCAB75033337}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>MoreReferenceProxies</RootNamespace>
-    <TargetFramework>net462</TargetFramework>
+    <TargetFramework>net472</TargetFramework>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <ResonitePath>$(MSBuildThisFileDirectory)Resonite</ResonitePath>
