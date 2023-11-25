@@ -9,9 +9,9 @@ namespace MoreReferenceProxies
 	public class MoreReferenceProxies : ResoniteMod
 	{
 		public override string Name => "MoreReferenceProxies";
-		public override string Author => "eia485";
-		public override string Version => "1.2.0";
-		public override string Link => "https://github.com/EIA485/NeosMoreReferenceProxies/";
+		public override string Author => "eia485, TheJebForge";
+		public override string Version => "1.2.1";
+		public override string Link => "https://github.com/TheJebForge/ResoniteMoreReferenceProxies/";
 		public override void OnEngineInit()
 		{
 			Harmony harmony = new Harmony("net.eia485.MoreReferenceProxies");
