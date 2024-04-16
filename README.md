@@ -1,5 +1,7 @@
 # MoreReferenceProxies
 
+### **This mod is now deprecated, Resonite has this functionality natively without any mods!**
+
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that adds reference proxy sources to bag editors, list editors, the user inspector.
 
 ## Installation
